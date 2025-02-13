@@ -1,16 +1,10 @@
 # 💫 About Me:
-I’m currently working on:<br>🤖 A machine learning project using TensorFlow and the kmader/skin-cancer-mnist-ham10000 dataset, focusing on building a skin cancer detection model.<br><br>I’m looking to collaborate on:<br>💻 Projects related to machine learning, data science, or web development—especially those involving real-world data or innovative design.<br><br>I’m looking for help with:<br>📈 Optimizing my machine learning models and gaining more experience in design and UI/UX for web projects.<br><br>I’m currently learning:<br>📚 Advanced concepts in machine learning, TensorFlow, and Data Structures & Algorithms in Java.<br><br>Ask me about:<br>🌐 Navigating the world of machine learning, getting started with TensorFlow, or how to enhance your programming skills in Java, Python, and C.<br><br>Fun fact:<br>🎨 I have a unique combination of interests in machine learning and design, and I’m always looking for ways to blend the two fields!
+💫 About Me:<br>Hello! I'm a passionate tech enthusiast with a keen interest in machine learning, web development, and UI/UX design. I thrive on solving complex problems and bringing creative ideas to life through code.<br><br>🔭 Currently Exploring:<br><br>Advanced machine learning algorithms with TensorFlow, focusing on real-world applications.<br>Web development projects with a user-centric approach to enhance digital experiences.<br>🤝 Open to Collaboration:<br><br>Innovative projects that bridge the gap between technology and design.<br>Open-source contributions to empower the developer community.<br>🌱 Learning Journey:<br><br>Mastering Data Structures & Algorithms in Java to write efficient and scalable code.<br>Enhancing my skills in UI/UX design to create intuitive and engaging user interfaces.<br>💬 Let’s Connect:<br><br>If you want to discuss machine learning trends, web development best practices, or just chat about the latest tech innovations, feel free to reach out!<br>🎨 Fun Fact:<br>I’m always experimenting with the fusion of technology and art, seeking new ways to make functional designs aesthetically pleasing.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kanishkhaa-m-s-53556428b/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kanishkhaacse&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kanishkhaacse&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhaacse&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kanishkhaacse&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kanishkhaacse&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhaacse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kanishkhaacse&icon=0&color=0)](https://visitcount.itsvg.in)
